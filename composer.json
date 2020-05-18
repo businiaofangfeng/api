@@ -1,0 +1,48 @@
+{
+	"name" : "goodyes/wechat_url_check_preventing_blocked_api",
+	"type" : "library",
+	"description" : "QQ/微信URL链接网址防封杀，防红，目前已经支持 实时监控封杀状态,被封域名网址恢复正常,提示浏览器打开,多域名自动切换,多级安全级别跳转,网址 阅读即焚 ,程序的功能都可以免费使用，https://www.wechaturl.us",
+	"time" : "2018-12-30",
+	"keywords" : [
+		"微信防封杀",
+		"微信防红",
+		"域名防红",
+		"网站防红",
+		"防洪",
+		"防红",
+		"微信网址防封杀",
+		"微信链接防封杀",
+		"微信URL防封杀",
+		"微信网址恢复正常",
+		"wechat防封杀",
+		"wechat网址防封杀",
+		"wechat链接防封杀",
+		"wechatURL防封杀",
+		"wechat网址恢复正常",
+		"weixin",
+		"wechat",
+		"weixin url",
+		"wechat url",
+		"wechat blocked",
+		"QQ",
+		"QQ url",
+		"QQ blocked"
+	],
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "wechaturl",
+			"email" : "cloud@ianalysis.xyz",
+			"homepage" : "https://www.wechaturl.us",
+			"role" : "Developer"
+		}
+	],
+	"require" : {
+		"php" : ">=5.3.0"
+	},
+	"minimum-stability" : "stable",
+	"autoload" : {
+		"files" : [
+			"src/businiao.lib/businiao.lib.php"
+		]
+	}
+}
